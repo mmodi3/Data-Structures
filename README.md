@@ -1,2 +1,2 @@
-# Data-Structures
-Implementations of various data structures using java.
+#Java
+Implementations of various data structures, and other classes using java.
